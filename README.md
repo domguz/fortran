@@ -1,2 +1,1 @@
-# fortran
-Homework for fortran classes
+# fortran zad1 
